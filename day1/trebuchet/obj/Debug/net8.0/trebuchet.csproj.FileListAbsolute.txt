@@ -1,0 +1,15 @@
+C:\Repos\aoc-2023\day1\trebuchet\bin\Debug\net8.0\trebuchet.exe
+C:\Repos\aoc-2023\day1\trebuchet\bin\Debug\net8.0\trebuchet.deps.json
+C:\Repos\aoc-2023\day1\trebuchet\bin\Debug\net8.0\trebuchet.runtimeconfig.json
+C:\Repos\aoc-2023\day1\trebuchet\bin\Debug\net8.0\trebuchet.dll
+C:\Repos\aoc-2023\day1\trebuchet\bin\Debug\net8.0\trebuchet.pdb
+C:\Repos\aoc-2023\day1\trebuchet\obj\Debug\net8.0\trebuchet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\aoc-2023\day1\trebuchet\obj\Debug\net8.0\trebuchet.AssemblyInfoInputs.cache
+C:\Repos\aoc-2023\day1\trebuchet\obj\Debug\net8.0\trebuchet.AssemblyInfo.cs
+C:\Repos\aoc-2023\day1\trebuchet\obj\Debug\net8.0\trebuchet.csproj.CoreCompileInputs.cache
+C:\Repos\aoc-2023\day1\trebuchet\obj\Debug\net8.0\trebuchet.sourcelink.json
+C:\Repos\aoc-2023\day1\trebuchet\obj\Debug\net8.0\trebuchet.dll
+C:\Repos\aoc-2023\day1\trebuchet\obj\Debug\net8.0\refint\trebuchet.dll
+C:\Repos\aoc-2023\day1\trebuchet\obj\Debug\net8.0\trebuchet.pdb
+C:\Repos\aoc-2023\day1\trebuchet\obj\Debug\net8.0\trebuchet.genruntimeconfig.cache
+C:\Repos\aoc-2023\day1\trebuchet\obj\Debug\net8.0\ref\trebuchet.dll
